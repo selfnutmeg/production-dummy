@@ -1,3 +1,3 @@
 export function someFn() {
-    console.log('smth');
+    console.log('hello world');
 }
